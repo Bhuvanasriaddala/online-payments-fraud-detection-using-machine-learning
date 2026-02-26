@@ -1,14 +1,4 @@
-# <font color="gold">Online Payments Fraud Detection ML Model</font>
 
-![Fraud Detection](https://img.shields.io/badge/Fraud-Detection-brightgreen?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/-XGBoost-important?style=for-the-badge)
-![AUC ROC](https://img.shields.io/badge/AUC--ROC-0.9556-blue?style=for-the-badge)
-![License](https://img.shields.io/github/license/Avdhesh-Varshney/online-payment-fraud-detection-app?style=for-the-badge)
-
----
-
-## <font color="lavendar">Project Overview</font>
 
 The **Online Payments Fraud Detection** application is designed to predict fraudulent transactions in online payment systems using advanced machine learning techniques. With the growing risk of online payment fraud, this model helps financial institutions and e-commerce platforms identify suspicious transactions in real-time.
 
