@@ -92,8 +92,6 @@ This project uses the <font color="gold">**IEEE-CIS Fraud Detection Dataset**</f
 - <font color="salmon">**Scikit-learn**</font>: For preprocessing and model evaluation.
 - <font color="violet">**Matplotlib, Seaborn**</font>: For visualizations and feature analysis.
 
-<div align="center">
-  <h3>Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; this repository!</h3>
-</div>
+
 
 <a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" align="right"/></a>
