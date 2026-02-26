@@ -22,17 +22,15 @@ Our solution leverages machine learning models, such as **XGBoost**, to detect f
 
 ## <font color="lavendar">Usage</font>
 
-1. Open the web app by running the command below.
-   > <font color="red">https://online-payment-fraud-detector.streamlit.app/</font>
 
-2. Enter transaction details like:
+1. Enter transaction details like:
    - Transaction amount
    - Transaction ID
    - Device Type
    - Card Type (Visa/ discover/ american express/ mastercard)
    - Transaction type (debit/credit)
-3. Click the **Predict** button to determine if the transaction is fraudulent.
-4. View the prediction result (fraudulent or genuine).
+2. Click the **Predict** button to determine if the transaction is fraudulent.
+3. View the prediction result (fraudulent or genuine).
 
 ---
 
