@@ -44,10 +44,6 @@ The machine learning pipeline for this project consists of the following steps:
 4. **Model Evaluation**: Evaluating the model based on metrics such as AUC ROC and accuracy.
 5. **Prediction**: Real-time predictions using the trained model.
 
-> <font color="purple">**NOTE:**</font> To dive deeper into the technical details, model architecture, or other functionalities, visit the following sections:
-> > <font color="seagreen">**NOTEBOOK LINK:**</font> https://www.kaggle.com/code/avdhesh15/fraud-detection-model <br />
-> > <font color="seagreen">**WEBSITE LINK:**</font> https://avdhesh-varshney.github.io/online-payment-fraud-detection-app/
-
 ---
 
 ## <font color="lavendar">Evaluation Metrics</font>
